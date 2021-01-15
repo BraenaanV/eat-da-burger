@@ -1,0 +1,35 @@
+body {
+    font-weight: bold;
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+}
+
+#burgerIMG {
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#enter-burger {
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+
+#add-burger {
+    padding: 50px;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.burgers-available {
+    text-align: center;
+    padding-right: 30px;
+}
